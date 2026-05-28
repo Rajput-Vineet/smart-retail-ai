@@ -2,7 +2,7 @@
 
 An AI-powered retail analytics and recommendation system built using Machine Learning and Streamlit.
 
-Live app link - 
+Live app link - https://smart-retail-ai-bbnbzb92tyeqbtjiq7js3m.streamlit.app
 ---
 
 ## Generate Recommendation Models
