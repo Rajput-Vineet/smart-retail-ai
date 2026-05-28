@@ -5,6 +5,15 @@ An AI-powered retail analytics and recommendation system built using Machine Lea
 Live app link - 
 ---
 
+## Generate Recommendation Models
+
+Run:
+
+```bash
+python src/recommendation/association_rules.py
+python src/recommendation/collaborative_filtering.py
+```
+
 ## Features
 
 - Customer Segmentation using RFM + KMeans
